@@ -1,17 +1,11 @@
 ---
 name: esg-compliance
 description: |
-  ESG 공시·내부통제·컴플라이언스 프로그램을 IPO·해외진출 게이트 관점에서 설계하는 실전 엔진. 공시(KSSB·ISSB·CSRD)·내부통제·공정거래 자율준수(CP)·반부패(FCPA·청탁금지)·자금세탁(AML)을 5층으로 진단·구축·점검한다. 한국 디폴트, 미·중 옵션, 그 외 법역은 검색 유도.
-  P1: ESG, ESG컴플라이언스, 컴플라이언스, compliance, ESG공시, KSSB, ISSB, CSRD, SEC기후공시, 내부통제, ICFR, CP, 공정거래자율준수, 준법지원인, 반부패, FCPA, UK Bribery, 청탁금지법, AML, 자금세탁방지, KYC, 제재준수, 공급망실사, CSDDD, 내부신고, 중대재해, IPO컴플라이언스, 해외진출컴플라이언스, 과징금감경.
-  P2: 컴플라이언스 점검해줘, ESG 공시 어떻게, CP 구축해줘, 내부통제 진단, IPO 준비, 해외진출 전 점검, 반부패 정책 만들어줘, AML 체계 잡아줘, 공시 의무 대상이야.
-  P3: ESG disclosure, internal control, compliance program, anti-corruption, anti-money laundering, supply chain due diligence, IPO readiness.
-  P4: IPO 추진 전, 해외진출·해외법인 설립 시, ESG 공시 의무화 대응 시, CP 등급평가 준비 시, 반부패·AML 구축 시.
-  P5: 진단서로, 구축로드맵으로, 체크리스트로, .md로.
-  NOT: 계약검토(→contract-consulting), 분쟁·소송(→dispute-skill), 앱 고지(→app-and-jang), 노동 1차(→labor-hr-skill), 세무(→tax-skill), 홀딩스(→holdings-consulting), 재무모델(→financial-model).
+  ESG 공시·내부통제·컴플라이언스 프로그램을 IPO·해외진출 게이트 관점에서 설계하는 실전 엔진. 공시(KSSB·ISSB·CSRD)·내부통제·공정거래 자율준수(CP)·반부패(FCPA·청탁금지)·자금세탁(AML)을 5층으로 진단·구축·점검한다. 한국 디폴트, 미·중 옵션, 그 외 법역은 검색 유도. 트리거: ESG, ESG컴플라이언스, 컴플라이언스, compliance, ESG공시, KSSB, ISSB, CSRD, SEC기후공시, 내부통제, ICFR, CP, 공정거래자율준수, 준법지원인, 반부패, FCPA, UK Bribery, 청탁금지법, AML, 자금세탁방지, KYC, 제재준수. NOT: 계약검토(→contract-consulting), 분쟁·소송(→dispute-skill), 앱 고지(→app-and-jang), 노동 1차(→labor-hr-skill), 세무(→tax-skill), 홀딩스(→holdings-consulting), 재무모델(→financial-model).
+license: Proprietary. LICENSE.txt has complete terms
 metadata:
   author: jason
-  version: "1.0.0"
-license: Proprietary. LICENSE.txt has complete terms
+  version: 1.0.0
 ---
 
 # ESG & Compliance Engine v1.0 — "Gate Keeper"
