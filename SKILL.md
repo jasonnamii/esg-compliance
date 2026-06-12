@@ -1,5 +1,6 @@
 ---
 name: esg-compliance
+version: 1.0
 description: |
   ESG 공시·내부통제·컴플라이언스 프로그램을 IPO·해외진출 게이트 관점에서 설계하는 실전 엔진. 공시(KSSB·ISSB·CSRD)·내부통제·공정거래 자율준수(CP)·반부패(FCPA·청탁금지)·자금세탁(AML)을 5층으로 진단·구축·점검한다. 한국 디폴트, 미·중 옵션, 그 외 법역은 검색 유도. 트리거: ESG, ESG컴플라이언스, 컴플라이언스, compliance, ESG공시, KSSB, ISSB, CSRD, SEC기후공시, 내부통제, ICFR, CP, 공정거래자율준수, 준법지원인, 반부패, FCPA, UK Bribery, 청탁금지법, AML, 자금세탁방지, KYC, 제재준수. NOT: 계약검토(→contract-consulting), 분쟁·소송(→dispute-skill), 앱 고지(→app-and-jang), 노동 1차(→labor-hr-skill), 세무(→tax-skill), 홀딩스(→holdings-consulting), 재무모델(→financial-model).
 license: Proprietary. LICENSE.txt has complete terms
